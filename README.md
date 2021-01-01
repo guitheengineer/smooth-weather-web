@@ -1,13 +1,68 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+<p align="center">
+  <img height="500px" src="https://i.ibb.co/hY75xDZ/Screen-Shot-2021-01-01-at-14-07-34.png" alt="Screenshot" />
+</p>
+<h2 align="center">
+  🌩 <a href="https:/gsdeveloper.github.io/smoothweather">Smooth weather </a> 🌩
+</h2>
+<h3 align="center">
+  A weather app with great visual design and a search feature.
+</h3>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+<a href="https://www.figma.com/file/YzzlW51e13vcWv4gMBpnyG/Weather-Forecast-App-Community?node-id=0%3A1">
+<img alt="figma badge" src="https://img.shields.io/badge/Figma%20prototype%20-Figma-%2304D361" >
+</a>
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/gsdeveloper/smooth-weather-web">
+<img alt="GitHub license" src="https://img.shields.io/github/license/gsdeveloper/smooth-weather-web">
+<img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/gsdeveloper/smooth-weather-web">
+<img alt="React" src="https://img.shields.io/badge/React-JS-blue">
+</p>
 
-## Available Scripts
+<br>
+
+---
+
+## 📌 Table of contents
+
+<!--ts-->
+
+- [About](#About)
+- [Table of contents](#tabela-de-conteudo)
+- [Installation](#instalacao)
+- [Tech Stack](#Tech-Stack)
+<!--te-->
+
+---
+
+## 🖥 About
+
+Smooth weather is a weather app with a great visual design, it supports searching locations by city name. 
+
+---
+
+## 🕹 Features
+
+- [x] Search by city name
+- [x] Persists location searched before (with local storage)
+- [x] Show the most important infos about current weather
+
+---
+
+## 🛠 Tech Stack
+
+- **[React](https://github.com/facebook/react)**
+- **[Context API](https://reactjs.org/docs/context.html)**
+- **[Styled components](https://styled-components.com/)**
+- **[TypeScript](https://github.com/microsoft/TypeScript)**
+- **[eslint](https://github.com/eslint/eslint)**
+
+---
+
+## 🚀 Running locally
 
 In the project directory, you can run:
 
-### `yarn start`
+### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -15,37 +70,28 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### `yarn test`
+### `npm test`
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Author
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<a href="gsdeveloper.github.io">
+ <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/49620737?s=460&u=affe940c45f9f14f3d456561e49e34d64e5b2078&v=4" width="100px;" alt=""/>
+ <br />
+</a>
+<pre>Made with by 
+<a href="gsdeveloper.github.io">Guilherme Samuel</a></pre>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+👋🏽 Feel free to talk with me!
 
-### `yarn eject`
+[![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Samuel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-samuel-2aa7aa19b/)](https://www.linkedin.com/in/guilherme-samuel-2aa7aa19b/)
+[![Gmail Badge](https://img.shields.io/badge/-gsdevelopercontact@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:gsdevelopercontact@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-gsdeveloper-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/gsdeveloper)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### License
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-=======
-# smooth-weather-web
-Web version of smooth weather app
->>>>>>> 994a5d0e92e2dd429d7fe75a6a95ff9aa9d1d3f5
+[MIT](https://github.com/gsdeveloper/betteraim/blob/master/README.md)
