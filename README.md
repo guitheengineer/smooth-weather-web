@@ -83,14 +83,14 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
  <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/49620737?s=460&u=affe940c45f9f14f3d456561e49e34d64e5b2078&v=4" width="100px;" alt=""/>
  <br />
 </a>
-<pre>Made with by 
+<pre>Made by 
 <a href="gsdeveloper.github.io">Guilherme Samuel</a></pre>
 
 👋🏽 Feel free to talk with me!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Samuel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-samuel-2aa7aa19b/)](https://www.linkedin.com/in/guilherme-samuel-2aa7aa19b/)
 [![Gmail Badge](https://img.shields.io/badge/-gsdevelopercontact@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:gsdevelopercontact@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-gsdeveloper-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/gsdeveloper)
+[![Twitter Badge](https://img.shields.io/badge/-gsdeveloper-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gsdeveloper)](https://twitter.com/gsdeveloper_)
 
 ### License
 
