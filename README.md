@@ -2,7 +2,7 @@
   <img height="500px" src="https://i.ibb.co/hY75xDZ/Screen-Shot-2021-01-01-at-14-07-34.png" alt="Screenshot" />
 </p>
 <h2 align="center">
-  🌩 <a href="https:/gsdeveloper.github.io/smoothweather">Smooth weather </a> 🌩
+  🌩 <a href="https:/gsdeveloper.github.io/smooth-weather-web">Smooth weather web</a> 🌩
 </h2>
 <h3 align="center">
   A weather app with great visual design and a search feature.
